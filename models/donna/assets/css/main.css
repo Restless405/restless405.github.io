@@ -88,8 +88,8 @@
 /* Type */
 
 	body {
-		background-color: #000;
-		color: #000;
+		background-color: #aaa;
+		color: #333;
 	}
 
 	body, input, select, textarea {
@@ -256,19 +256,19 @@
 	}
 
 	input, select, textarea {
-		color: #999;
+		color: #555;
 	}
 
 	a {
-		color: #000000;
+		color: #e74c3c;
 	}
 
 	strong, b {
-		color: #999;
+		color: #555;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #999;
+		color: #555;
 	}
 
 	blockquote {
@@ -359,7 +359,7 @@
 		button.alt,
 		.button.alt {
 			background: #FFF;
-			color: #000000;
+			color: #e74c3c;
 		}
 
 		input[type="submit"].fit,
@@ -585,7 +585,7 @@
 	}
 
 	label {
-		color: #999;
+		color: #555;
 	}
 
 	input[type="text"],
@@ -602,8 +602,8 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #000000;
-			box-shadow: 0 0 0 1px #000000;
+			border-color: #e74c3c;
+			box-shadow: 0 0 0 1px #e74c3c;
 		}
 
 	.select-wrapper:before {
@@ -623,15 +623,15 @@
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #000000;
-		border-color: #000000;
+		background-color: #e74c3c;
+		border-color: #e74c3c;
 		color: #ffffff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #000000;
-		box-shadow: 0 0 0 1px #000000;
+		border-color: #e74c3c;
+		box-shadow: 0 0 0 1px #e74c3c;
 	}
 
 	::-webkit-input-placeholder {
@@ -1035,7 +1035,7 @@
 
 			#preview .content header h2 {
 				font-size: 2.5em;
-				color: #000000;
+				color: #e74c3c;
 			}
 
 		@media screen and (max-width: 1680px) {
@@ -1173,7 +1173,7 @@
 		}
 
 	table th {
-		color: #999;
+		color: #555;
 	}
 
 	table thead {
@@ -1242,7 +1242,7 @@
 			display: -ms-flexbox;
 			-ms-flex-align: center;
 			-ms-flex-pack: center;
-			background: #000000;
+			background: #e74c3c;
 			border-radius: 100%;
 			width: 35em;
 			height: 35em;
@@ -1412,7 +1412,7 @@
 			display: inline-block;
 			text-decoration: none;
 			border-radius: 50% 50% 0 0;
-			background: #000000;
+			background: #e74c3c;
 			width: 3em;
 			height: 3em;
 			margin-bottom: -1.75em;
@@ -1443,7 +1443,7 @@
 			-ms-flex-pack: center;
 			position: relative;
 			z-index: 10003;
-			background: #000000;
+			background: #e74c3c;
 			padding: 2em;
 			height: 20em;
 		}
