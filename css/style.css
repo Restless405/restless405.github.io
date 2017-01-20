@@ -96,13 +96,13 @@ body{
 	font-family: 'RokkittRegular';
 	color:#fff;
 	font-size:30px;
-	margin:28px 0 0 125px;
+	margin:28px 0 0 25px;
 	cursor:pointer;
 	outline:none;
 }
 .body ul.blog{
 	list-style:none;
-	margin:40px 0 0;
+	margin:10px 0 0;
 	padding:0 0 20px;
 	background:url(../images/separator.jpg) no-repeat center top;
 	overflow:hidden;
@@ -113,13 +113,13 @@ body{
 .body ul.blog li{
 	float:left;
 	background:url(../images/interface.jpg) no-repeat 0 -68px!important;
-	margin:60px 0 0 48px;
-	height:300px;
+	margin:60px 0 0 20px;
+	height:280px;
 	padding:0;
 }
 .body ul.blog li div{
-	width:281px;
-	height:280px;
+	width:250px;
+	height:250px;
 	text-align:center;
 	padding: 8px 0 20px 0;
 	float:none;
@@ -135,7 +135,7 @@ body{
 	opacity:0.5;
 }
 .body ul.blog li div p{
-	width:258px;
+	width:250px;
 	text-align:centered;
 	color:#828081;
 	font-family: 'RokkittRegular';
@@ -160,11 +160,11 @@ body{
 	font-style:italic;
 	text-decoration:none;
 	text-align:centered;
-	padding:98px 0 0;
-	margin:32px auto 0;
+	padding:2px 0 0;
+	margin:2px auto 0;
 	display:block;
 	width: 150px;
-	background:url(../images/button-more.jpg) no-repeat center top;
+
 	outline:none;
 	font-size:16px;
 	font-weight:normal;
@@ -203,7 +203,7 @@ body{
 .body ul li{
 	overflow:hidden;
 	background:url(../images/separator.jpg) no-repeat center top;
-	padding:30px 0;
+	padding:10px 0;
 }
 .body ul li div.featured{
 	background:url(../images/interface.jpg) no-repeat 0 -68px;
@@ -256,7 +256,7 @@ body{
 	float:left;
 	margin:0 0 0 50px;
 	width:609px;
-	background:url(../images/button-more.jpg) no-repeat left bottom;
+	
 }
 .body ul li div h3{
 	margin:0;
